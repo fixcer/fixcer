@@ -10,9 +10,9 @@
 
 [![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=ml&show_owner=true)](https://github.com/fixcer/ml)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=weatherbot&show_owner=true)](https://github.com/fixcer/weatherbot)
+[![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=weatherbot&show_owner=true)](https://github.com/fixcer/weatherbot)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=learn-reactjs&show_owner=true)](https://github.com/fixcer/learn-reactjs)
+[![Text Classification](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=text-classification&show_owner=true)](https://github.com/fixcer/text-classification)
 
 **Languages and Tools:**  
 
