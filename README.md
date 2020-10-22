@@ -9,10 +9,10 @@
 ## My Repos
 
 [![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=ml&show_owner=true)](https://github.com/fixcer/ml)
-
 [![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=weatherbot&show_owner=true)](https://github.com/fixcer/weatherbot)
-
 [![Text Classification](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=text-classification&show_owner=true)](https://github.com/fixcer/text-classification)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fixcer)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**  
 
