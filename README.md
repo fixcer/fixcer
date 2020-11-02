@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fixcer!
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning ...
 - 📫 How to reach me: <a href="https://facebook.com/fixcer">@fixcer</a> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fixcer&theme=buefy&show_icons=true&count_private=true)
