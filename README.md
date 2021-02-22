@@ -12,8 +12,9 @@
 [![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=ml&show_owner=true)](https://github.com/fixcer/ml)
 [![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=weatherbot&show_owner=true)](https://github.com/fixcer/weatherbot)
 [![BigData - Docker](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=bigdata&show_owner=true)](https://github.com/fixcer/bigdata)
-[![ReactJS](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=learn-reactjs&show_owner=true)](https://github.com/fixcer/learn-reactjs)
 [![Chat using NodeJS](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=chat&show_owner=true)](https://github.com/fixcer/chat)
+[![ReactJS](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=learn-reactjs&show_owner=true)](https://github.com/fixcer/learn-reactjs)
+[![React Native](https://github-readme-stats.vercel.app/api/pin/?username=fixcer&repo=tracks_react_native&show_owner=true)](https://github.com/fixcer/tracks_react_native)
 
 **Languages and Tools:**  
 
