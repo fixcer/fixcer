@@ -18,7 +18,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/fixcer/fixcer/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 **Visitors:**
 
 ![](https://komarev.com/ghpvc/?username=fixcer)
