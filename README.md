@@ -1,4 +1,11 @@
-### Hi there 👋, I'm Fixcer!
+## Hi there 👋, I'm Fixcer!
+![](https://komarev.com/ghpvc/?username=fixcer) [![Github](https://img.shields.io/github/followers/fixcer?label=Followers&logo=Github)](https://github.com/fixcer)
+
+
+
+
+
+
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: <a href="https://facebook.com/fixcer">@fixcer</a> 
@@ -13,6 +20,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
@@ -22,7 +30,3 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-
-**Visitors:**
-
-![](https://komarev.com/ghpvc/?username=fixcer)
