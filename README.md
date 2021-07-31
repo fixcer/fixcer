@@ -1,32 +1,42 @@
-## Hi there 👋, I'm Fixcer!
-![](https://komarev.com/ghpvc/?username=fixcer) [![Github](https://img.shields.io/github/followers/fixcer?label=Followers&logo=Github)](https://github.com/fixcer)
+<h2>Hi there 👋, I'm Fixcer! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://fixcer.github.io">Fixcer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
+![GitHub followers](https://img.shields.io/github/followers/fixcer?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fixcer.github.io/)](https://fixcer.github.io/)
+![](https://visitor-badge.glitch.me/badge?page_id=fixcer.fixcer)
 
+👇 Hit in your console or terminal to connect with me.
 
+```bash
+npx fixcer
+```
+**👆 This command line tool can be found at [npx fixcer](https://github.com/fixcer/npx_card)**
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next"],
+        backEnd: {
+            js: ["Node", "SpringBoot"],
+        },
+        mobileApp: {
+            crossPlatform: ["ReactNative", "Flutter"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["Postgres", "MySql", "Mongo"]
+    },
+    architecture: ["Serverless Architecture", "Single page applications"],
+    currentFocus: "Flutter App Development"
+};
+```
 
-
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: <a href="https://facebook.com/fixcer">@fixcer</a> 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=fixcer&theme=buefy&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fixcer&layout=compact)
-
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/fixcer/fixcer/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
