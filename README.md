@@ -23,9 +23,11 @@ const fixcer = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next"],
+            js: ["React", "Next"]
+        },
         backEnd: {
-            js: ["Node", "SpringBoot"],
+            js: ["Node"],
+            java: ["Spring Boot"]
         },
         mobileApp: {
             crossPlatform: ["ReactNative", "Flutter"]
@@ -34,7 +36,7 @@ const fixcer = {
         databases: ["Postgres", "MySql", "Mongo"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
-    currentFocus: "Flutter App Development"
+    currentFocus: "Back-end Development"
 };
 ```
 
